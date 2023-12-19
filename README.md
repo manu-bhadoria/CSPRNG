@@ -1,3 +1,4 @@
+![CSPRNG Image](CSPRNG.png)
 # CSPRNG Library for Noir
 
 ## Introduction
