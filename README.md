@@ -52,6 +52,7 @@ While the CSPRNG library offers robust functionality, it's important to note the
 ### Contribution
 
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please feel free to submit a pull request or raise an issue.
-License
+
+### License
 
 This library is distributed under the Apache License 2.0. See the LICENSE file for more details.
